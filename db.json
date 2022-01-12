@@ -1,0 +1,19 @@
+{
+  "resolutions": [
+    {
+      "text": "JavaScript beherrschen",
+      "erledigt": false,
+      "id": 1
+    },
+    {
+      "text": "Arbeitgeber finden",
+      "erledigt": false,
+      "id": 2
+    },
+    {
+      "text": "Aufstieg",
+      "erledigt": false,
+      "id": 3
+    }
+  ]
+}
